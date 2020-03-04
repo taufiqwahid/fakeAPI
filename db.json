@@ -1,11 +1,24 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"cars": [
+		{"id":1,"name":"Toyota","color":"Maroon"},
+		{"id":2,"name":"Chrysler","color":"Red"},
+		{"id":3,"name":"Pontiac","color":"Orange"},
+		{"id":4,"name":"Porsche","color":"Aquamarine"},
+		{"id":5,"name":"Mitsubishi","color":"Green"},
+		{"id":6,"name":"Nissan","color":"Aquamarine"},
+		{"id":7,"name":"Eagle","color":"Violet"},
+		{"id":8,"name":"Saturn","color":"Violet"},
+		{"id":9,"name":"Land Rover","color":"Purple"},
+		{"id":10,"name":"Volkswagen","color":"Goldenrod"},
+		{"id":11,"name":"GMC","color":"Teal"},
+		{"id":12,"name":"Ford","color":"Purple"},
+		{"id":13,"name":"Nissan","color":"Indigo"},
+		{"id":14,"name":"Cadillac","color":"Khaki"},
+		{"id":15,"name":"Nissan","color":"Fuscia"},
+		{"id":16,"name":"Mazda","color":"Yellow"},
+		{"id":17,"name":"Rolls-Royce","color":"Yellow"},
+		{"id":18,"name":"Hyundai","color":"Pink"},
+		{"id":19,"name":"Kia","color":"Teal"},
+		{"id":20,"name":"Lexus","color":"Turquoise"}
+	]
 }
